@@ -26,7 +26,7 @@ public class Main {
 		 * 
 		 * Java es modular y utiliza paquetes para run el code
 		 * Los modificadores nos permite guardar o definir niveles de acceso para el metodo
-		
+		 * Si no ponemos modificadores, entonces es publicos para cualquiera en su mismo paquete
 		*/
 
 	}
